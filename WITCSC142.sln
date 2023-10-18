@@ -14,6 +14,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizzaSlices", "Chapter 3\Pi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestScores", "Chapter 3\TestScores\TestScores.vcxproj", "{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiceRoller", "Side Projects\DiceRoller\DiceRoller.vcxproj", "{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Debug|Any CPU.Build.0 = Debug|Win32
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Release|Any CPU.ActiveCfg = Release|Win32
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Release|Any CPU.Build.0 = Release|Win32
+		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Debug|Any CPU.Build.0 = Debug|Win32
+		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Release|Any CPU.ActiveCfg = Release|Win32
+		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
