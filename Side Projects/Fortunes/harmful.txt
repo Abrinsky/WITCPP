@@ -1,0 +1,22 @@
+#This is the harmful things/diseases file, basically things that can damage your health or otherwise kill you.
+#The program will pick one of these at random :D
+#If it picked "get in a car accident" it would say that, and lower your health by the number next to it.
+#Whenever one of these happen your health drops, and when it reaches 0, you die.
+#format is (1-100 Damage goes here) (Cause of the damage goes here)
+10 You contract disentery
+40 You acquire AIDS
+25 You eat something horribly poisonous and have to get your stomach pumped
+15 You drink gasoline, causing severe damage to your internal organs
+10 You catch herpes
+5 You are beaten by a gang
+25 You get in a car accident
+10 You get bit by a homeless person
+10 you fall down some stairs
+10 You get raped
+30 You get hit by a car
+35 You get run over
+75 You get into a brutal fight
+30 You are starving
+35 You get mauled by a wild animal
+30 Your legs are crushed by a collapsing building
+10 You get caught on fire

@@ -1,0 +1,22 @@
+#This is the Causes of death file, basically what you die of or how you die.
+#The program will pick one of these at random
+#If it picked "die in a fire" it would say something like, "At the end of your blahblah lifespan you will die in a fire"
+#think of it as saying "you will" before each of these.
+die of old age
+die in a fire
+pass away in your sleep
+be kidnapped
+fade away
+die from a bullet wound
+die from severe blood loss
+pass away comfortably
+die from illness
+be mauled to death by a wild animal
+be raped, dismembered, and killed by a lunatic psychopath
+be dropped down a well
+die from something of which I can not see
+be killed by rabid squirrels
+be mauled, stabbed, and bit to death by a traveling circus of dwarves
+be struck by lightning
+live peacefully
+be crushed by a steamroller
