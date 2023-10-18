@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bill", "Chapter 2\Bill\Bill.vcxproj", "{93CC683A-6050-4313-B9D9-3DABA54B7362}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ByteSize", "Chapter 2\ByteSize\ByteSize.vcxproj", "{7B85B35C-351E-436D-B547-4282BCC05156}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Diamond", "Chapter 2\Diamond\Diamond.vcxproj", "{6CFEAA0E-5738-486B-B1AD-00B4A931C26E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MilesPerGallon", "Chapter 3\MilesPerGallon\MilesPerGallon.vcxproj", "{037ABD10-3B6B-46A6-BFD7-61576241BF7E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizzaParty", "Chapter 3\PizzaParty\PizzaParty.vcxproj", "{878B918A-7AB3-422C-A212-D70EEBF020F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizzaSlices", "Chapter 3\PizzaSlices\PizzaSlices.vcxproj", "{6FA01C99-31CE-4BBB-AE55-8F8D000BAAAF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestScores", "Chapter 3\TestScores\TestScores.vcxproj", "{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CC683A-6050-4313-B9D9-3DABA54B7362}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{93CC683A-6050-4313-B9D9-3DABA54B7362}.Debug|Any CPU.Build.0 = Debug|Win32
+		{93CC683A-6050-4313-B9D9-3DABA54B7362}.Release|Any CPU.ActiveCfg = Release|Win32
+		{93CC683A-6050-4313-B9D9-3DABA54B7362}.Release|Any CPU.Build.0 = Release|Win32
+		{7B85B35C-351E-436D-B547-4282BCC05156}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{7B85B35C-351E-436D-B547-4282BCC05156}.Debug|Any CPU.Build.0 = Debug|Win32
+		{7B85B35C-351E-436D-B547-4282BCC05156}.Release|Any CPU.ActiveCfg = Release|Win32
+		{7B85B35C-351E-436D-B547-4282BCC05156}.Release|Any CPU.Build.0 = Release|Win32
+		{6CFEAA0E-5738-486B-B1AD-00B4A931C26E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6CFEAA0E-5738-486B-B1AD-00B4A931C26E}.Debug|Any CPU.Build.0 = Debug|Win32
+		{6CFEAA0E-5738-486B-B1AD-00B4A931C26E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6CFEAA0E-5738-486B-B1AD-00B4A931C26E}.Release|Any CPU.Build.0 = Release|Win32
+		{037ABD10-3B6B-46A6-BFD7-61576241BF7E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{037ABD10-3B6B-46A6-BFD7-61576241BF7E}.Debug|Any CPU.Build.0 = Debug|Win32
+		{037ABD10-3B6B-46A6-BFD7-61576241BF7E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{037ABD10-3B6B-46A6-BFD7-61576241BF7E}.Release|Any CPU.Build.0 = Release|Win32
+		{878B918A-7AB3-422C-A212-D70EEBF020F8}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{878B918A-7AB3-422C-A212-D70EEBF020F8}.Debug|Any CPU.Build.0 = Debug|Win32
+		{878B918A-7AB3-422C-A212-D70EEBF020F8}.Release|Any CPU.ActiveCfg = Release|Win32
+		{878B918A-7AB3-422C-A212-D70EEBF020F8}.Release|Any CPU.Build.0 = Release|Win32
+		{6FA01C99-31CE-4BBB-AE55-8F8D000BAAAF}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6FA01C99-31CE-4BBB-AE55-8F8D000BAAAF}.Debug|Any CPU.Build.0 = Debug|Win32
+		{6FA01C99-31CE-4BBB-AE55-8F8D000BAAAF}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6FA01C99-31CE-4BBB-AE55-8F8D000BAAAF}.Release|Any CPU.Build.0 = Release|Win32
+		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Debug|Any CPU.Build.0 = Debug|Win32
+		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Release|Any CPU.Build.0 = Release|Win32
+	EndGlobalSection
+EndGlobal
