@@ -1,19 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bill", "Chapter 2\Bill\Bill.vcxproj", "{93CC683A-6050-4313-B9D9-3DABA54B7362}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ByteSize", "Chapter 2\ByteSize\ByteSize.vcxproj", "{7B85B35C-351E-436D-B547-4282BCC05156}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Diamond", "Chapter 2\Diamond\Diamond.vcxproj", "{6CFEAA0E-5738-486B-B1AD-00B4A931C26E}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MilesPerGallon", "Chapter 3\MilesPerGallon\MilesPerGallon.vcxproj", "{037ABD10-3B6B-46A6-BFD7-61576241BF7E}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizzaParty", "Chapter 3\PizzaParty\PizzaParty.vcxproj", "{878B918A-7AB3-422C-A212-D70EEBF020F8}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizzaSlices", "Chapter 3\PizzaSlices\PizzaSlices.vcxproj", "{6FA01C99-31CE-4BBB-AE55-8F8D000BAAAF}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestScores", "Chapter 3\TestScores\TestScores.vcxproj", "{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiceRoller", "Side Projects\DiceRoller\DiceRoller.vcxproj", "{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fortunes", "Side Projects\Fortunes\Fortunes.vcxproj", "{01853CC8-E1D8-441F-921A-3312430ED98C}"
@@ -24,12 +10,46 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fortunes2", "Side Projects\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACLES", "Side Projects\ACLES\ACLES.vcxproj", "{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bill", "CSC142\Chapter 2\Bill\Bill.vcxproj", "{93CC683A-6050-4313-B9D9-3DABA54B7362}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ByteSize", "CSC142\Chapter 2\ByteSize\ByteSize.vcxproj", "{7B85B35C-351E-436D-B547-4282BCC05156}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Diamond", "CSC142\Chapter 2\Diamond\Diamond.vcxproj", "{6CFEAA0E-5738-486B-B1AD-00B4A931C26E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MilesPerGallon", "CSC142\Chapter 3\MilesPerGallon\MilesPerGallon.vcxproj", "{037ABD10-3B6B-46A6-BFD7-61576241BF7E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizzaParty", "CSC142\Chapter 3\PizzaParty\PizzaParty.vcxproj", "{878B918A-7AB3-422C-A212-D70EEBF020F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizzaSlices", "CSC142\Chapter 3\PizzaSlices\PizzaSlices.vcxproj", "{6FA01C99-31CE-4BBB-AE55-8F8D000BAAAF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestScores", "CSC142\Chapter 3\TestScores\TestScores.vcxproj", "{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Debug|Any CPU.Build.0 = Debug|Win32
+		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Release|Any CPU.ActiveCfg = Release|Win32
+		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Release|Any CPU.Build.0 = Release|Win32
+		{01853CC8-E1D8-441F-921A-3312430ED98C}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{01853CC8-E1D8-441F-921A-3312430ED98C}.Debug|Any CPU.Build.0 = Debug|Win32
+		{01853CC8-E1D8-441F-921A-3312430ED98C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{01853CC8-E1D8-441F-921A-3312430ED98C}.Release|Any CPU.Build.0 = Release|Win32
+		{AAF55DDD-E02F-4A21-82FB-2697ADC3F876}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{AAF55DDD-E02F-4A21-82FB-2697ADC3F876}.Debug|Any CPU.Build.0 = Debug|Win32
+		{AAF55DDD-E02F-4A21-82FB-2697ADC3F876}.Release|Any CPU.ActiveCfg = Release|Win32
+		{AAF55DDD-E02F-4A21-82FB-2697ADC3F876}.Release|Any CPU.Build.0 = Release|Win32
+		{B6BDA8FB-8452-43FF-8811-3EFC9A45BD08}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B6BDA8FB-8452-43FF-8811-3EFC9A45BD08}.Debug|Any CPU.Build.0 = Debug|Win32
+		{B6BDA8FB-8452-43FF-8811-3EFC9A45BD08}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B6BDA8FB-8452-43FF-8811-3EFC9A45BD08}.Release|Any CPU.Build.0 = Release|Win32
+		{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}.Debug|Any CPU.Build.0 = Debug|Win32
+		{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}.Release|Any CPU.ActiveCfg = Release|Win32
+		{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}.Release|Any CPU.Build.0 = Release|Win32
 		{93CC683A-6050-4313-B9D9-3DABA54B7362}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{93CC683A-6050-4313-B9D9-3DABA54B7362}.Debug|Any CPU.Build.0 = Debug|Win32
 		{93CC683A-6050-4313-B9D9-3DABA54B7362}.Release|Any CPU.ActiveCfg = Release|Win32
@@ -58,25 +78,5 @@ Global
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Debug|Any CPU.Build.0 = Debug|Win32
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Release|Any CPU.ActiveCfg = Release|Win32
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Release|Any CPU.Build.0 = Release|Win32
-		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Debug|Any CPU.Build.0 = Debug|Win32
-		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Release|Any CPU.ActiveCfg = Release|Win32
-		{9B3838B2-0E04-41E6-95E7-94EC647DA6AF}.Release|Any CPU.Build.0 = Release|Win32
-		{01853CC8-E1D8-441F-921A-3312430ED98C}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{01853CC8-E1D8-441F-921A-3312430ED98C}.Debug|Any CPU.Build.0 = Debug|Win32
-		{01853CC8-E1D8-441F-921A-3312430ED98C}.Release|Any CPU.ActiveCfg = Release|Win32
-		{01853CC8-E1D8-441F-921A-3312430ED98C}.Release|Any CPU.Build.0 = Release|Win32
-		{AAF55DDD-E02F-4A21-82FB-2697ADC3F876}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{AAF55DDD-E02F-4A21-82FB-2697ADC3F876}.Debug|Any CPU.Build.0 = Debug|Win32
-		{AAF55DDD-E02F-4A21-82FB-2697ADC3F876}.Release|Any CPU.ActiveCfg = Release|Win32
-		{AAF55DDD-E02F-4A21-82FB-2697ADC3F876}.Release|Any CPU.Build.0 = Release|Win32
-		{B6BDA8FB-8452-43FF-8811-3EFC9A45BD08}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{B6BDA8FB-8452-43FF-8811-3EFC9A45BD08}.Debug|Any CPU.Build.0 = Debug|Win32
-		{B6BDA8FB-8452-43FF-8811-3EFC9A45BD08}.Release|Any CPU.ActiveCfg = Release|Win32
-		{B6BDA8FB-8452-43FF-8811-3EFC9A45BD08}.Release|Any CPU.Build.0 = Release|Win32
-		{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}.Debug|Any CPU.Build.0 = Debug|Win32
-		{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}.Release|Any CPU.ActiveCfg = Release|Win32
-		{51AAA076-21D4-4FE5-A4BC-89EBA9E7C275}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
