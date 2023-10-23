@@ -24,6 +24,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizzaSlices", "CSC142\Chapt
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestScores", "CSC142\Chapter 3\TestScores\TestScores.vcxproj", "{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMI", "CSC142\Chapter 4\BMI\BMI.vcxproj", "{973C324C-B0A0-4C1B-B055-2A75A27A13C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeometryCalc", "CSC142\Chapter 4\GeometryCalc\GeometryCalc.vcxproj", "{A34BCCBB-3E2F-4C2F-B5DE-1E2708BDC4B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MagicDates", "CSC142\Chapter 4\MagicDates\MagicDates.vcxproj", "{C68BB26A-9CBD-4BBF-B8D0-1C239974F1FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +84,17 @@ Global
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Debug|Any CPU.Build.0 = Debug|Win32
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Release|Any CPU.ActiveCfg = Release|Win32
 		{9FE2514A-8295-45FD-A4DF-5901BF93C3FC}.Release|Any CPU.Build.0 = Release|Win32
+		{973C324C-B0A0-4C1B-B055-2A75A27A13C3}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{973C324C-B0A0-4C1B-B055-2A75A27A13C3}.Debug|Any CPU.Build.0 = Debug|Win32
+		{973C324C-B0A0-4C1B-B055-2A75A27A13C3}.Release|Any CPU.ActiveCfg = Release|Win32
+		{973C324C-B0A0-4C1B-B055-2A75A27A13C3}.Release|Any CPU.Build.0 = Release|Win32
+		{A34BCCBB-3E2F-4C2F-B5DE-1E2708BDC4B1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A34BCCBB-3E2F-4C2F-B5DE-1E2708BDC4B1}.Debug|Any CPU.Build.0 = Debug|Win32
+		{A34BCCBB-3E2F-4C2F-B5DE-1E2708BDC4B1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A34BCCBB-3E2F-4C2F-B5DE-1E2708BDC4B1}.Release|Any CPU.Build.0 = Release|Win32
+		{C68BB26A-9CBD-4BBF-B8D0-1C239974F1FA}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C68BB26A-9CBD-4BBF-B8D0-1C239974F1FA}.Debug|Any CPU.Build.0 = Debug|Win32
+		{C68BB26A-9CBD-4BBF-B8D0-1C239974F1FA}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C68BB26A-9CBD-4BBF-B8D0-1C239974F1FA}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
