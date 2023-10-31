@@ -66,6 +66,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MidtermVendorKart", "CSC153
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinalQuizGame", "CSC153\Chapter 13\FinalQuizGame\FinalQuizGame.vcxproj", "{763434BC-49FC-4B70-9F86-D4028BFE21F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Crud", "CompetitionPractice 2015\Crud\Crud.vcxproj", "{632E7605-2A2A-46D1-951E-1846AF4CE6D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Histogram", "CompetitionPractice 2015\Histogram\Histogram.vcxproj", "{11B39BED-F8FC-4571-8BE7-130BBEB22067}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RectOverlap", "CompetitionPractice 2015\RectOverlap\RectOverlap.vcxproj", "{276647C8-B1C6-4308-8BB4-608B9714AF22}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CharManip", "CompetitionPractice 2015\CharManip\CharManip.vcxproj", "{187621AB-082F-4106-B7B9-407673BB26A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -204,5 +212,21 @@ Global
 		{763434BC-49FC-4B70-9F86-D4028BFE21F1}.Debug|Any CPU.Build.0 = Debug|Win32
 		{763434BC-49FC-4B70-9F86-D4028BFE21F1}.Release|Any CPU.ActiveCfg = Release|Win32
 		{763434BC-49FC-4B70-9F86-D4028BFE21F1}.Release|Any CPU.Build.0 = Release|Win32
+		{632E7605-2A2A-46D1-951E-1846AF4CE6D1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{632E7605-2A2A-46D1-951E-1846AF4CE6D1}.Debug|Any CPU.Build.0 = Debug|Win32
+		{632E7605-2A2A-46D1-951E-1846AF4CE6D1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{632E7605-2A2A-46D1-951E-1846AF4CE6D1}.Release|Any CPU.Build.0 = Release|Win32
+		{11B39BED-F8FC-4571-8BE7-130BBEB22067}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{11B39BED-F8FC-4571-8BE7-130BBEB22067}.Debug|Any CPU.Build.0 = Debug|Win32
+		{11B39BED-F8FC-4571-8BE7-130BBEB22067}.Release|Any CPU.ActiveCfg = Release|Win32
+		{11B39BED-F8FC-4571-8BE7-130BBEB22067}.Release|Any CPU.Build.0 = Release|Win32
+		{276647C8-B1C6-4308-8BB4-608B9714AF22}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{276647C8-B1C6-4308-8BB4-608B9714AF22}.Debug|Any CPU.Build.0 = Debug|Win32
+		{276647C8-B1C6-4308-8BB4-608B9714AF22}.Release|Any CPU.ActiveCfg = Release|Win32
+		{276647C8-B1C6-4308-8BB4-608B9714AF22}.Release|Any CPU.Build.0 = Release|Win32
+		{187621AB-082F-4106-B7B9-407673BB26A3}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{187621AB-082F-4106-B7B9-407673BB26A3}.Debug|Any CPU.Build.0 = Debug|Win32
+		{187621AB-082F-4106-B7B9-407673BB26A3}.Release|Any CPU.ActiveCfg = Release|Win32
+		{187621AB-082F-4106-B7B9-407673BB26A3}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
