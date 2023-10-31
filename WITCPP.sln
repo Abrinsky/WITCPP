@@ -54,6 +54,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToe", "CSC142\Chapter
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vector", "CSC142\Chapter 7\Vector\Vector.vcxproj", "{84557AE5-0981-4297-A57B-956008D8E677}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinalAlgorithms", "CSC142\Chapter 8\FinalAlgorithms\FinalAlgorithms.vcxproj", "{6FAD7750-F050-43EC-9369-A66ECC3D768B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{84557AE5-0981-4297-A57B-956008D8E677}.Debug|Any CPU.Build.0 = Debug|Win32
 		{84557AE5-0981-4297-A57B-956008D8E677}.Release|Any CPU.ActiveCfg = Release|Win32
 		{84557AE5-0981-4297-A57B-956008D8E677}.Release|Any CPU.Build.0 = Release|Win32
+		{6FAD7750-F050-43EC-9369-A66ECC3D768B}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6FAD7750-F050-43EC-9369-A66ECC3D768B}.Debug|Any CPU.Build.0 = Debug|Win32
+		{6FAD7750-F050-43EC-9369-A66ECC3D768B}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6FAD7750-F050-43EC-9369-A66ECC3D768B}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
