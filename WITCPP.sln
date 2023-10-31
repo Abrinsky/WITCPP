@@ -64,6 +64,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KornerKart", "CSC153\Chapte
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MidtermVendorKart", "CSC153\Chapter 12\MidtermVendorKart\MidtermVendorKart.vcxproj", "{9564D875-8DDC-4C02-84AE-9351BE4CEDD3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinalQuizGame", "CSC153\Chapter 13\FinalQuizGame\FinalQuizGame.vcxproj", "{763434BC-49FC-4B70-9F86-D4028BFE21F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -198,5 +200,9 @@ Global
 		{9564D875-8DDC-4C02-84AE-9351BE4CEDD3}.Debug|Any CPU.Build.0 = Debug|Win32
 		{9564D875-8DDC-4C02-84AE-9351BE4CEDD3}.Release|Any CPU.ActiveCfg = Release|Win32
 		{9564D875-8DDC-4C02-84AE-9351BE4CEDD3}.Release|Any CPU.Build.0 = Release|Win32
+		{763434BC-49FC-4B70-9F86-D4028BFE21F1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{763434BC-49FC-4B70-9F86-D4028BFE21F1}.Debug|Any CPU.Build.0 = Debug|Win32
+		{763434BC-49FC-4B70-9F86-D4028BFE21F1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{763434BC-49FC-4B70-9F86-D4028BFE21F1}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
